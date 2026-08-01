@@ -14,19 +14,15 @@ This is the list of projects currently under development under Draconis. This li
 
 **DuraPy** is a multi-domain Python library that provides resources for STEM-related applications. **DuraPy** focuses on ease of use, performance, scalability, and reliability.
 
-### ICARUS - Agentic AI Platform for engineering
+### ICARUS - Agentic AI platform for engineering
 
 **ICARUS** is a natural language interface inspired by the well-known fictional JARVIS system. **ICARUS** understands speech, has the ability to talk, and can execute tasks via skills.
 
-### Vanguard - Markdown Knowledge Database System
-
-**Vanguard** is a knowledge database system inspired by Markdown. It is a lightweight Markdown database with capabilities to download non-MD files and convert them for fast indexing and consistency.
-
-### XO - Multi-architecture Neural Net Series
+### XO - Multi-architecture Neural Net series
 
 **XO** is a series of neural networks designed for applications such as image recognition, natural language processing, and more. The **XO** series is built upon the **DuraPy** ecosystem and is designed to be easily integrated with other tools and libraries built upon it as well.
 
-### Olympus - Personal Productivity Platform
+### Olympus - Personal productivity platform
 
 **Olympus** is a personal productivity platform developed as part of the Draconis Engineering Ecosystem. Olympus focuses on student-athletes, but it is designed to be flexible and adaptable for anyone looking to improve their productivity and organization. 
 
