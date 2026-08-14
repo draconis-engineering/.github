@@ -22,9 +22,9 @@ This is the list of projects currently under development under Draconis. This li
 
 **XO** is a series of neural networks designed for applications such as image recognition, natural language processing, and more. The **XO** series is built upon the **DuraPy** ecosystem and is designed to be easily integrated with other tools and libraries built upon it as well.
 
-### Olympus - Personal productivity platform
+### Olympus - Cycling TUI
 
-**Olympus** is a personal productivity platform developed as part of the Draconis Engineering Ecosystem. Olympus focuses on student-athletes, but it is designed to be flexible and adaptable for anyone looking to improve their productivity and organization. 
+**Olympus** is an advanced cycling trainer TUI written in Rust. It is a minimalist, but high-performance alternative to apps like Zwift and Rouvy, but with all the functionality you could expect from a terminal application. 
 
 ## INACTIVE PROJECTS
 
