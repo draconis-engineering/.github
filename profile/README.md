@@ -1,55 +1,56 @@
 # Draconis Engineering
 
-***Written, Created, Iterated, Evolved and Built by Simon Stordal Amundgård***
+> **High-performance, reliable software engineering across low-level systems, intelligent agents, and STEM infrastructure.**
 
-*What is Draconis?*
+Welcome to **Draconis Engineering**, an independent multi-disciplinary initiative founded and engineered by **Simon Stordal Amundgård**. Draconis focuses on building scalable, performance-driven software solutions utilizing modern tech stacks like **Rust, Python, and Agentic AI architectures**.
 
-**Draconis** is a multi-discipline engineering initiative, currently focused on high-performance and reliable software
+---
 
-## ACTIVE PROJECTS
+## 🚀 Active Production Repositories
 
-This is the list of projects currently under development under Draconis. This list is subject to change. Inactive and archived projects can be found below this list.
+### 🛠️ [DuraPy](https://github.com) • *The Draconis Python Collection*
+*   **Core Stack:** Python
+*   **Domain:** STEM Computing, High-Performance Analytics
+*   **Overview:** A multi-domain, highly optimized Python ecosystem engineered for scalability and mathematical precision. DuraPy provides core utilities for complex scientific engineering applications, serving as the foundational architectural layer for other Draconis machine learning systems.
 
-### DuraPy - The Draconis Python Collection
+### 🤖 [ICARUS](https://github.com) • *Agentic AI Platform for Engineering*
+*   **Core Stack:** Python, NLP, LLM Architectures, Speech-to-Text/Text-to-Speech
+*   **Domain:** Artificial Intelligence, Automation
+*   **Overview:** A natural language terminal interface designed as an intelligent engineering co-pilot. ICARUS handles bi-directional voice communications and executes complex local workflow automated tasks via custom, modular skill integrations.
 
-**DuraPy** is a multi-domain Python library that provides resources for STEM-related applications. **DuraPy** focuses on ease of use, performance, scalability, and reliability.
+### 🧠 [XO](https://github.com) • *Multi-Architecture Neural Network Series*
+*   **Core Stack:** Python, Deep Learning Frameworks
+*   **Domain:** Machine Learning, Computer Vision, NLP
+*   **Overview:** A custom series of deep neural networks designed for computer vision and language processing workloads. XO is deeply coupled with the DuraPy ecosystem, showcasing production-ready optimization for native hardware acceleration.
 
-### ICARUS - Agentic AI platform for engineering
+### 🚴 [Olympus](https://github.com) • *Cycling Terminal User Interface (TUI)*
+*   **Core Stack:** Rust
+*   **Domain:** Systems Programming, IoT, Real-Time Interfaces
+*   **Overview:** A minimalist, lightweight, and high-performance alternative to legacy platforms like Zwift or Rouvy. Built natively in Rust for absolute efficiency, it serves as a robust terminal-based smart trainer control dashboard.
 
-**ICARUS** is a natural language interface inspired by the well-known fictional JARVIS system. **ICARUS** understands speech, has the ability to talk, and can execute tasks via skills.
+---
 
-### XO - Multi-architecture Neural Net series
+## ⏳ Inactive & R&D Projects
 
-**XO** is a series of neural networks designed for applications such as image recognition, natural language processing, and more. The **XO** series is built upon the **DuraPy** ecosystem and is designed to be easily integrated with other tools and libraries built upon it as well.
+The following projects are functional but not under active daily maintenance.
 
-### Olympus - Cycling TUI
+*   📁 **MAX-Q (Composable Systems Engine):** A central IT orchestration layer and micro-service manager built to compose scalable backend modular architectures.
+*   📁 **UniForge CLI:** A Python-based command-line toolkit optimized for rapid engineering calculations, data simulations, and academic research execution.
 
-**Olympus** is an advanced cycling trainer TUI written in Rust. It is a minimalist, but high-performance alternative to apps like Zwift and Rouvy, but with all the functionality you could expect from a terminal application. 
+---
 
-## INACTIVE PROJECTS
+## 🗄️ Archived Implementations
 
-This section contains projects that aren't currently actively maintained.
+Historic codebases preserved for reference.
 
-### MAX-Q - Composable Systems Engine
+*   📦 **DysonSphere:** A legacy mathematics and cryptography library. Superceded by the DuraPy ecosystem.
+*   📦 **TANGO I (Tactical Aerospace Networked Global Operator):** A conceptual, aerospace mission-planning platform integrating visualization maps and telemetry simulation structures.
 
-**MAX-Q** is a *Composable Systems Engine* (**CSE**) designed to streamline the assembly and management of modular IT resources and business processes. By acting as a central orchestration layer, MAX-Q allows developers to "compose" sophisticated systems from independent, best-of-breed services and micro-services. It enables rapid scalability, modularity and quick and easy maintenance.
+---
 
-### UniForge CLI - The Ultimate Command Line Interface STEMP Toolchain
+## 🌐 Technical Core & Methodologies
 
-**UniForge** is a Python-based CLI toolkit for performing STEM-related calculations and simulations. Whether you're a student looking to learn more about STEM or a professional engineer working on STEM-related projects, **UniForge** is designed to be a valuable resource for your work and studies.
+*   **Languages:** Python, Rust (and expanding systems languages)
+*   **Focus Areas:** System Architecture, Mathematical Computing, Edge AI, Tooling & Optimization
 
-## ARCHIVED PROJECTS
-
-This is the list of old projects no longer being maintained / further developed by Draconis. Projects may be restarted again at any time.
-
-### DYSONSPHERE - Math and Cryptography toolchain
-
-**DysonSphere** was designed to be a useful tool to help with general mathematics, cryptography and other tasks. **DysonSphere** was abandoned but partially replaced by its successor **UniForge** as part of the **DuraPy** Ecosystem.
-
-### TANGO I - Tactical Aerospace Networked Global Operator
-
-**TANGO I** was the first iteration of the **TANGO** Series. As the title suggests, **TANGO** was supposed to be a program for aerospace-based mission planning and control tasks, featuring a complete suite of tools for visualization, communications, navigation, and other necessities. **TANGO** was and still is abandoned, but a successor may be built in the future.
-
-
-
-### ***SEMPER ULTRA - SEMPER ALTIUS***
+### *SEMPER ULTRA • SEMPER ALTIUS*
