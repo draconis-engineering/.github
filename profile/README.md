@@ -8,25 +8,30 @@ Welcome to **Draconis Engineering**, an independent multi-disciplinary initiativ
 
 ## 🚀 Active Production Repositories
 
-### 🛠️ [DuraPy](https://github.com) • *The Draconis Python Collection*
+### 🚴 [Olympus](https://github.com/draconis-engineering/olympus) • *Cycling Terminal User Interface - Our flagship project*
+*   **Core Stack:** Rust
+*   **Domain:** Systems Programming, IoT, Real-Time Interfaces
+*   **Overview:** A minimalist, lightweight, and high-performance alternative to legacy platforms like Zwift or Rouvy. Built natively in Rust for absolute efficiency, it serves as a robust terminal-based smart trainer control dashboard.
+
+### 🛠️ [DuraPy](https://github.com/draconis-engineering/durapy) • *The Draconis Python Collection*
 *   **Core Stack:** Python
 *   **Domain:** STEM Computing, High-Performance Analytics
 *   **Overview:** A multi-domain, highly optimized Python ecosystem engineered for scalability and mathematical precision. DuraPy provides core utilities for complex scientific engineering applications, serving as the foundational architectural layer for other Draconis machine learning systems.
 
-### 🤖 [ICARUS](https://github.com) • *Agentic AI Platform for Engineering*
+### 🤖 [ICARUS](https://github.com/draconis-engineering/icarus) • *Agentic AI Platform for Engineering*
 *   **Core Stack:** Python, NLP, LLM Architectures, Speech-to-Text/Text-to-Speech
 *   **Domain:** Artificial Intelligence, Automation
 *   **Overview:** A natural language terminal interface designed as an intelligent engineering co-pilot. ICARUS handles bi-directional voice communications and executes complex local workflow automated tasks via custom, modular skill integrations.
 
-### 🧠 [XO](https://github.com) • *Multi-Architecture Neural Network Series*
+### 🧠 [XO](https://github.com/draconis-engineering/xo-series) • *Multi-Architecture Neural Network Series*
 *   **Core Stack:** Python, Deep Learning Frameworks
 *   **Domain:** Machine Learning, Computer Vision, NLP
 *   **Overview:** A custom series of deep neural networks designed for computer vision and language processing workloads. XO is deeply coupled with the DuraPy ecosystem, showcasing production-ready optimization for native hardware acceleration.
 
-### 🚴 [Olympus](https://github.com) • *Cycling Terminal User Interface (TUI)*
-*   **Core Stack:** Rust
-*   **Domain:** Systems Programming, IoT, Real-Time Interfaces
-*   **Overview:** A minimalist, lightweight, and high-performance alternative to legacy platforms like Zwift or Rouvy. Built natively in Rust for absolute efficiency, it serves as a robust terminal-based smart trainer control dashboard.
+### 🧠 [DraconiForge](https://github.com/draconis-engineering/draconiforge) • *Multi-Architecture Neural Network Series*
+*   **Core Stack:** Shell, Go
+*   **Domain:** Engineering utility
+*   **Overview:** A CLI tool written in Go that runs a collection of shellscript workflows to streamline iteration, development and testing of products.
 
 ---
 
