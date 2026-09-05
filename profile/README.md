@@ -23,15 +23,10 @@ Welcome to **Draconis Engineering**, an independent multi-disciplinary initiativ
 *   **Domain:** Artificial Intelligence, Automation
 *   **Overview:** A natural language terminal interface designed as an intelligent engineering co-pilot. ICARUS handles bi-directional voice communications and executes complex local workflow automated tasks via custom, modular skill integrations.
 
-### 🧠 [XO](https://github.com/draconis-engineering/xo-series) • *Multi-Architecture Neural Network Series*
-*   **Core Stack:** Python, Deep Learning Frameworks
-*   **Domain:** Machine Learning, Computer Vision, NLP
-*   **Overview:** A custom series of deep neural networks designed for computer vision and language processing workloads. XO is deeply coupled with the DuraPy ecosystem, showcasing production-ready optimization for native hardware acceleration.
-
-### 🧠 [DraconiForge](https://github.com/draconis-engineering/draconiforge) • *Multi-Architecture Neural Network Series*
+### 🧠 [DraconiForge](https://github.com/draconis-engineering/draconiforge) • *Engineering Workflows*
 *   **Core Stack:** Shell, Go
 *   **Domain:** Engineering utility
-*   **Overview:** A CLI tool written in Go that runs a collection of shellscript workflows to streamline iteration, development and testing of products.
+*   **Overview:** A CLI tool written in Go that runs a collection of shell workflows to streamline iteration, development and testing of products.
 
 ---
 
