@@ -13,6 +13,11 @@ Welcome to **Draconis Engineering**, an independent multi-disciplinary initiativ
 *   **Domain:** Systems Programming, IoT, Real-Time Interfaces
 *   **Overview:** A minimalist, lightweight, and high-performance alternative to legacy platforms like Zwift or Rouvy. Built natively in Rust for absolute efficiency, it serves as a robust terminal-based smart trainer control dashboard.
 
+### 🧠 [DracoLIX](https://github.com/draconis-engineering/draconlix) • *HPC Platform for Physics, Math and Economics*
+*   **Core Stack:** C++, Fortran, Julia
+*   **Domain:** HPC, Linear Algebra, Low Level
+*   **Overview:** A high-performance computation platform written from scratch.
+
 ### 🛠️ [DuraPy](https://github.com/draconis-engineering/durapy) • *The Draconis Python Collection*
 *   **Core Stack:** Python
 *   **Domain:** STEM Computing, High-Performance Analytics
