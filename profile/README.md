@@ -57,5 +57,3 @@ Historic codebases preserved for reference.
 
 *   **Languages:** Python, Rust (and expanding systems languages)
 *   **Focus Areas:** System Architecture, Mathematical Computing, Edge AI, Tooling & Optimization
-
-### *SEMPER ULTRA • SEMPER ALTIUS*
