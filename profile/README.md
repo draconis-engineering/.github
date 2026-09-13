@@ -23,10 +23,10 @@ Welcome to **Draconis Engineering**, an independent multi-disciplinary initiativ
 *   **Domain:** STEM Computing, High-Performance Analytics
 *   **Overview:** A multi-domain, highly optimized Python ecosystem engineered for scalability and mathematical precision. DuraPy provides core utilities for complex scientific engineering applications, serving as the foundational architectural layer for other Draconis machine learning systems.
 
-### 🤖 [ICARUS](https://github.com/draconis-engineering/icarus) • *Agentic AI Platform for Engineering*
-*   **Core Stack:** Python, NLP, LLM Architectures, Speech-to-Text/Text-to-Speech
-*   **Domain:** Artificial Intelligence, Automation
-*   **Overview:** A natural language terminal interface designed as an intelligent engineering co-pilot. ICARUS handles bi-directional voice communications and executes complex local workflow automated tasks via custom, modular skill integrations.
+### 🤖 [DragonQuant](https://github.com/draconis-engineering/draconomics) • *Financial Simulations & Modeling*
+*   **Core Stack:** C++, Python
+*   **Domain:** Finance, Quantitative Analysis, Data Science
+*   **Overview:** A simulation & modeling platform for analyzing funds, indices, and more.
 
 ### 🧠 [DraconiForge](https://github.com/draconis-engineering/draconiforge) • *Engineering Workflows*
 *   **Core Stack:** Shell, Go
