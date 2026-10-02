@@ -1,6 +1,6 @@
 # Draconis Engineering
 
-> **High-performance, reliable software engineering across low-level systems, demanding endurance sports and uncompromised spaceflight technologies.**
+> **High-performance, reliable software engineering across low-level systems, demanding endurance sports and uncompromised spaceflight technologies. Proudly engineered in Norway.**
 
 Welcome to **Draconis Engineering**, an independent multi-disciplinary initiative founded and engineered by **Simon Stordal Amundgård**. Draconis focuses on building scalable, performance-driven software solutions utilizing modern tech stacks like **Rust, Python, and Agentic AI architectures**.
 
