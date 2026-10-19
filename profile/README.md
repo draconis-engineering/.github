@@ -13,7 +13,7 @@ Welcome to **Draconis Engineering**, an independent multi-disciplinary initiativ
 *   **Domain:** Systems Programming, IoT, Real-Time Interfaces
 *   **Overview:** A minimalist, lightweight, and high-performance alternative to legacy platforms like Zwift or Rouvy. Built natively in Rust for absolute efficiency, it serves as a robust terminal-based smart trainer control dashboard.
 
-### 🧠 [DracoLIX](https://github.com/draconis-engineering/draconlix) • *HPC Platform for Physics, Math and Economics*
+### 🧠 [DracoLIX](https://github.com/draconis-engineering/dracolix) • *HPC Platform for Physics, Math and Economics*
 *   **Core Stack:** C++, Fortran, Julia
 *   **Domain:** HPC, Linear Algebra, Low Level
 *   **Overview:** A high-performance computation platform written from scratch.
@@ -22,6 +22,11 @@ Welcome to **Draconis Engineering**, an independent multi-disciplinary initiativ
 *   **Core Stack:** Python
 *   **Domain:** STEM Computing, High-Performance Analytics
 *   **Overview:** A multi-domain, highly optimized Python ecosystem engineered for scalability and mathematical precision. DuraPy provides core utilities for complex scientific engineering applications, serving as the foundational architectural layer for other Draconis machine learning systems.
+
+### 🧠 [DraconisDSA](https://github.com/draconis-engineering/draconisDSA) • *Educational implementations of common Data Structures and Algorithms*
+*   **Core Stack:** Pure C
+*   **Domain:** Low Level, Systems programming, Manual Memory Management
+*   **Overview:** A collection of common data structures and algorithms implemented in pure C. Serves as a simple educational reference.
 
 ### 🤖 [DragonQuant](https://github.com/draconis-engineering/draconomics) • *Financial Simulations & Modeling*
 *   **Core Stack:** C++, Python
